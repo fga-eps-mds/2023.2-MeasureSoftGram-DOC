@@ -1,0 +1,15 @@
+site_name: MeasureSoftGram 2023.2
+
+repo_name: '2023.2-MeasureSoftGram-DOC'
+repo_url: 'https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC'
+
+theme:
+  name: material
+  language: 'pt'
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  palette:
+    primary: blue grey
+
+nav:
+  - Início: index.md
