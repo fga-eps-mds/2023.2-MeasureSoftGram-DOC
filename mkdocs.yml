@@ -13,3 +13,5 @@ theme:
 
 nav:
   - Início: index.md
+  - Sprints:
+        - sprint 00: sprints/sprint00.md
