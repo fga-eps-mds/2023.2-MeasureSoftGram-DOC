@@ -23,7 +23,7 @@ Também foi dada prioridade no treinamento do pessoal de MDS através de Dojos r
 |||
 |:--:|:--:|
 |Conteúdo|Git|
-|Responsáveis|[Ariel](https://github.com/ArielSixwings)|
+|Responsáveis|[Ariel](https://github.com/ArielSixwings) e [João](https://github.com/joaobisi)|
 |Data|12/09/2023|
 |||
 |Conteúdo|TypeScript|
@@ -31,7 +31,7 @@ Também foi dada prioridade no treinamento do pessoal de MDS através de Dojos r
 |Data|18/09/2023|
 |||
 |Conteúdo|Python|
-|Responsáveis|[Ian](https://github.com/IanPSRocha)|
+|Responsáveis|[Ian](https://github.com/IanPSRocha), [Vitor](https://github.com/vitorekr) e [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite)|
 |Data|21/09/2023|
 
 **Observação:** Todos os integrantes de MDS participaram das Dojos listadas acima.

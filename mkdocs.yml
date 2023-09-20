@@ -14,4 +14,7 @@ theme:
 nav:
   - Início: index.md
   - Sprints:
-        - sprint 00: sprints/sprint00.md
+    - sprint 00: sprints/sprint00.md
+  - Tabelas:
+    - Tabela de Conhecimentos: tabelas/heatmap_conhecimentos.md
+    - Heatmap de Horários: tabelas/heatmap_horarios.md
