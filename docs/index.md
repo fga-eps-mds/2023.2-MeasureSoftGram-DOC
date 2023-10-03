@@ -10,6 +10,12 @@ Wiki destinada ao projeto MeasureSoftGram contendo toda a documentação relativ
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
+            <a href="https://github.com/AnaCarolinaRodriguesLeite">
+                <img style="border-radius: 50%;" src="https://github.com/AnaCarolinaRodriguesLeite.png" width="150px;"/>
+                <h5 class="text-center">Ana Carolina Rodrigues Leite (EPS)</h5>
+            </a>
+        </td>
+        <td align="center">
             <a href="https://github.com/ArielSixwings">
                 <img style="border-radius: 50%;" src="https://github.com/ArielSixwings.png" width="150px;"/>
                 <h5 class="text-center">Ariel Vieira Lima Serafim (EPS)</h5>
@@ -27,13 +33,14 @@ Wiki destinada ao projeto MeasureSoftGram contendo toda a documentação relativ
                 <h5 class="text-center">Ian Pereira de Sousa Rocha (EPS)</h5>
             </a>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <a href="https://github.com/joaobisi">
                 <img style="border-radius: 50%;" src="https://github.com/joaobisi.png" width="150px;"/>
                 <h5 class="text-center">João Victor Max Bisinotti de Oliveira (EPS)</h5>
             </a>
         </td>
-        </tr>
         <td align="center">
             <a href="https://github.com/LamequeFernandes">
                 <img style="border-radius: 50%;" src="https://github.com/LamequeFernandes.png" width="150px;"/>
@@ -52,14 +59,20 @@ Wiki destinada ao projeto MeasureSoftGram contendo toda a documentação relativ
                 <h5 class="text-center">Luana de Lima Medeiros (MDS)</h5>
             </a>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <a href="https://github.com/AguionStryke">
                 <img style="border-radius: 50%;" src="https://github.com/AguionStryke.png" width="150px;"/>
                 <h5 class="text-center">Lucas Freire Lopes (MDS)</h5>
             </a>
         </td>
-    </tr>
-    <tr>
+        <td align="center">
+            <a href="https://github.com/LucasGlopes">
+                <img style="border-radius: 50%;" src="https://github.com/LucasGlopes.png" width="150px;"/>
+                <h5 class="text-center">Lucas Gomes Lopes (EPS)</h5>
+            </a>
+        </td>
         <td align="center">
             <a href="https://github.com/muriloschiler">
                 <img style="border-radius: 50%;" src="https://github.com/muriloschiler.png" width="150px;"/>
@@ -72,6 +85,8 @@ Wiki destinada ao projeto MeasureSoftGram contendo toda a documentação relativ
                 <h5 class="text-center">Pedro de Miranda Haick (EPS)</h5>
             </a>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <a href="https://github.com/Renatinha28">
                 <img style="border-radius: 50%;" src="https://github.com/Renatinha28.png" width="150px;"/>
@@ -84,8 +99,6 @@ Wiki destinada ao projeto MeasureSoftGram contendo toda a documentação relativ
                 <h5 class="text-center">Vinicius Angelo de Brito Vieira (MDS)</h5>
             </a>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="https://github.com/vitorekr">
                 <img style="border-radius: 50%;" src="https://github.com/vitorekr.png" width="150px;"/>
