@@ -20,3 +20,5 @@ nav:
   - Tabelas:
     - Tabela de Conhecimentos: tabelas/heatmap_conhecimentos.md
     - Heatmap de Horários: tabelas/heatmap_horarios.md
+  - Diagramas:
+    - Diagrama Entidade-relacionamento: diagramas/diagrama_entidade_relacionamento.md
