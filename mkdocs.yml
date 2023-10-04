@@ -22,3 +22,5 @@ nav:
     - Heatmap de Horários: tabelas/heatmap_horarios.md
   - Diagramas:
     - Diagrama Entidade-relacionamento: diagramas/diagrama_entidade_relacionamento.md
+  - Guia de Contribuição: 
+    - Política de Commits: guia_contribuicao/politica_commits.md
