@@ -1,9 +1,5 @@
 # Metodologias
 
-| Versão | Data | Descrição | Participantes |
-|--------|------|-----------|---------------|
-| 1.0 | 01/10/2023 | Versão inicial do documento | João Victor Max |
-
 Durante o desenvolvimento do projeto MeasureSoftGram neste semestre, a equipe responsável optou por incorporar práticas de três metodologias ágeis distintas. A seguir, uma breve contextualização de cada uma dessas metodologias e como a equipe planeja aproveitar seus benefícios:
 
 ## Scrum
@@ -25,3 +21,9 @@ Durante o desenvolvimento do projeto MeasureSoftGram neste semestre, a equipe re
 SUTHERLAND, J. **Scrum: a arte de fazer o dobro do trabalho na metade do tempo**. [s.l.] Leya, 2016.
 **eXtreme Programming: Conceitos e Práticas sobre eXtreme Programming**. Disponível em: <https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498>.
 ‌**Kanban: O que é e Como Funciona**. Disponível em: <https://businessmap.io/pt/recursos-kanban/primeiros-passos/o-que-e-kanban>.
+
+### Histórico de Versão
+
+| Versão | Data | Descrição | Autor | Revisor |
+|--------|------|-----------|---------------|-----------|
+| 1.0 | 01/10/2023 | Versão inicial do documento | [João Victor Max](https://github.com/joaobisi) | |

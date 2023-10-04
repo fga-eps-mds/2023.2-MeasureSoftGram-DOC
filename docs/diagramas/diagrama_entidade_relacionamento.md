@@ -12,7 +12,7 @@ O Diagrama Entidade-Relacionamento do projeto Measure Soft Gram foi criado autom
 
 ![models](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/assets/54439337/8cc0c8a4-4f20-4118-bd51-03583eb0f972)
 
-## Histório de versão
+## Histórico de versão
 
 Data | Versão |Descrição |Autor | Revisor
 -----|--------|----------|------|--------
