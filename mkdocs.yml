@@ -13,6 +13,8 @@ theme:
 
 nav:
   - Início: index.md
+  - Planejamento:
+    - Metodologias: docs/metodologias.md
   - Sprints:
     - sprint 00: sprints/sprint00.md
   - Tabelas:
