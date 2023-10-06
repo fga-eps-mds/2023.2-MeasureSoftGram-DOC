@@ -15,8 +15,10 @@ nav:
   - Início: index.md
   - Planejamento:
     - Metodologias: planejamento/metodologias.md
+  - Reuniões:
+    - Reunião 06/09: atas/reuniao1.md
   - Sprints:
-    - sprint 00: sprints/sprint00.md
+    - Sprint 00: sprints/sprint00.md
   - Tabelas:
     - Tabela de Conhecimentos: tabelas/heatmap_conhecimentos.md
     - Heatmap de Horários: tabelas/heatmap_horarios.md
