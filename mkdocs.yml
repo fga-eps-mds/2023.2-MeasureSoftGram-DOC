@@ -37,6 +37,8 @@ nav:
     - Heatmap de Horários: tabelas/heatmap_horarios.md
   - Documentos:
     - Arquitetura: documentacao/arquitetura.md
+  - Gestão de Projetos:
+    - Plano de risco: gestao_de_projetos/plano_de_risco.md
   - Diagramas:
     - Diagrama Entidade-relacionamento: diagramas/diagrama_entidade_relacionamento.md
   - Guia de Contribuição: 
