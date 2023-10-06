@@ -1,15 +1,17 @@
-# Ata - Reunião 01
+# Ata - Reunião 02
 
-Data: 06/09/2023
+Data: 12/09/2023
 
 Horário: 20:00
 
 ## Pauta
 
-- Apresentação do projeto pelo cliente;
-- Decisão do horário das reuniões semanais;
-- Apresentação dos membros entre si;
-- Criação das tabelas de horários e conhecimentos.
+- Apresentação das ideias iniciais de EPS para os membros de MDS;
+- Dojo de Treinamento de MDS sobre a ferramenta GIT.
+
+### Links Referentes a Dojo
+
+[Apresentação](https://www.canva.com/design/DAFuFAdHW4U/gH9QH7uM4RaaHbPWH6lI3w/edit)
 
 ## Participantes
 |Membro|Equipe|

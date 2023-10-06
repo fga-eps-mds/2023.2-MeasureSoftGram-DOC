@@ -33,5 +33,3 @@ Também foi dada prioridade no treinamento do pessoal de MDS através de Dojos r
 |Conteúdo|Python|
 |Responsáveis|[Ian](https://github.com/IanPSRocha), [Vitor](https://github.com/vitorekr) e [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite)|
 |Data|21/09/2023|
-
-**Observação:** Todos os integrantes de MDS participaram das Dojos listadas acima.

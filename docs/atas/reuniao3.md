@@ -1,15 +1,13 @@
-# Ata - Reunião 01
+# Ata - Reunião 03
 
-Data: 06/09/2023
+Data: 13/09/2023
 
 Horário: 20:00
 
 ## Pauta
 
-- Apresentação do projeto pelo cliente;
-- Decisão do horário das reuniões semanais;
-- Apresentação dos membros entre si;
-- Criação das tabelas de horários e conhecimentos.
+- Explicação mais aprofundada da teoria do produto pelo cliente;
+- Discussão ao redor do planejamento das metodologias a serem aplicadas pelos membros da equipe.
 
 ## Participantes
 |Membro|Equipe|
