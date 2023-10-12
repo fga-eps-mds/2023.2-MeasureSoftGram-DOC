@@ -15,6 +15,7 @@ nav:
   - Início: index.md
   - Planejamento:
     - Metodologias: planejamento/metodologias.md
+    - Plano de Custos: planejamento/plano_custos.md
   - Reuniões:
     - Reunião 06/09: atas/reuniao1.md
     - Reunião 12/09: atas/reuniao2.md
