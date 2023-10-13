@@ -39,6 +39,7 @@ nav:
     - Arquitetura: documentacao/arquitetura.md
   - Gestão de Projetos:
     - Plano de risco: gestao_projetos/plano_risco.md
+    - Estrutura Analítica do Projeto: gestao_projetos/eap.md
   - Diagramas:
     - Diagrama Entidade-relacionamento: diagramas/diagrama_entidade_relacionamento.md
   - Guia de Contribuição: 
