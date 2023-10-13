@@ -26,7 +26,7 @@ Nível 3: O nível 3 da EAP é composto pelas atividades de baixo nível do proj
 
 ## Resultado
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNaobZpc=/?moveToViewport=-987,-344,2063,923&embedId=634616796814" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVNaobZpc=/?pres=1&frameId=3458764566758073321&embedId=636194813046" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 
 ## Referências
