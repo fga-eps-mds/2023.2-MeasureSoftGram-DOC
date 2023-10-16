@@ -14,8 +14,14 @@ theme:
 nav:
   - Início: index.md
   - Planejamento:
+    - Tabela de Conhecimentos: tabelas/heatmap_conhecimentos.md
+    - Heatmap de Horários: tabelas/heatmap_horarios.md
     - Metodologias: planejamento/metodologias.md
     - Plano de Custos: planejamento/plano_custos.md
+    - Plano de risco: gestao_projetos/plano_risco.md
+    - Arquitetura: documentacao/arquitetura.md
+    - Estrutura Analítica do Projeto: gestao_projetos/eap.md
+    - Diagrama Entidade-relacionamento: diagramas/diagrama_entidade_relacionamento.md
   - Reuniões:
     - Reunião 06/09: atas/reuniao1.md
     - Reunião 12/09: atas/reuniao2.md
@@ -33,15 +39,5 @@ nav:
     - Reunião 04/10: atas/reuniao14.md
   - Sprints:
     - Sprint 00: sprints/sprint00.md
-  - Tabelas:
-    - Tabela de Conhecimentos: tabelas/heatmap_conhecimentos.md
-    - Heatmap de Horários: tabelas/heatmap_horarios.md
-  - Documentos:
-    - Arquitetura: documentacao/arquitetura.md
-  - Gestão de Projetos:
-    - Plano de risco: gestao_projetos/plano_risco.md
-    - Estrutura Analítica do Projeto: gestao_projetos/eap.md
-  - Diagramas:
-    - Diagrama Entidade-relacionamento: diagramas/diagrama_entidade_relacionamento.md
   - Guia de Contribuição: 
     - Política de Commits: guia_contribuicao/politica_commits.md
