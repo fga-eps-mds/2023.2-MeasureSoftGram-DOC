@@ -5,6 +5,7 @@
 |--|--|--|--|
 |0.1| 13/10/2023 | Criação do documento | Ana Carolina Rodrigues |
 |0.2| 13/10/2023 | Adição da imagem do eap | Ana Carolina Rodrigues |
+|0.3| 16/10/2023 | Segunda versão do eap conforme correção | Ana Carolina Rodrigues |
 
 
 ## Introdução
@@ -26,7 +27,11 @@ Nível 3: O nível 3 da EAP é composto pelas atividades de baixo nível do proj
 
 ## Resultado
 
+### Versão 1:
 ![Opportunity Solution Tree](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/assets/49570180/8a1dbfa6-a0fd-4061-b101-7a0200bd5c32)
+
+### Versão 2:
+![Opportunity Solution Tree (3)](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/assets/49570180/0daa6625-46b5-444a-9eea-38b6299fe641)
 
 
 ## Referências
