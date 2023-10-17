@@ -24,10 +24,10 @@ Durante o desenvolvimento do projeto MeasureSoftGram neste semestre, a equipe re
 
 
 ### Referências
-SUTHERLAND, J. **Scrum: a arte de fazer o dobro do trabalho na metade do tempo**. [s.l.] Leya, 2016.
-**eXtreme Programming: Conceitos e Práticas sobre eXtreme Programming**. Disponível em: <https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498>.
-‌**Kanban: O que é e Como Funciona**. Disponível em: <https://businessmap.io/pt/recursos-kanban/primeiros-passos/o-que-e-kanban>.
-CAROLI, P. **Lean Inception.** [s.l.] Editora Caroli, 2020.
+SUTHERLAND, J. **Scrum: a arte de fazer o dobro do trabalho na metade do tempo**. [s.l.] Leya, 2016.  
+**eXtreme Programming: Conceitos e Práticas sobre eXtreme Programming**. Disponível em: <https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498>.  
+‌**Kanban: O que é e Como Funciona**. Disponível em: <https://businessmap.io/pt/recursos-kanban/primeiros-passos/o-que-e-kanban>.  
+CAROLI, P. **Lean Inception.** [s.l.] Editora Caroli, 2020.  
 
 ‌
 ### Histórico de Versão
