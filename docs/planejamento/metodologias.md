@@ -17,13 +17,22 @@ Durante o desenvolvimento do projeto MeasureSoftGram neste semestre, a equipe re
  - Haverá realização de programação em pares, presencialmente ou remotamente, com auxílio tecnológico de ferramentas como Microsoft Teams e VSCode Live Share, por exemplo).
  - Serão incorporadas as práticas de Planning Poker, para mensurar o esforço de tarefas,  além de Integração Contínua e Entrega Contínua, com auxílio da plataforma Github Actions.
 
+## Lean Inception
+ - A Lean Inception é uma abordagem que visa alinhar a equipe em relação aos objetivos e requisitos do projeto desde o início.
+ - No decorrer desse projeto, a Lean Inception será aplicada para garantir a clareza dos objetivos e das diretrizes do projeto, proporcionando um sólido ponto de partida quanto à visão do produto.
+ - Será utilizada a plataforma Mural para a aplicação das diretrizes da Lean Inception. 
+
+
 ### Referências
 SUTHERLAND, J. **Scrum: a arte de fazer o dobro do trabalho na metade do tempo**. [s.l.] Leya, 2016.
 **eXtreme Programming: Conceitos e Práticas sobre eXtreme Programming**. Disponível em: <https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498>.
 ‌**Kanban: O que é e Como Funciona**. Disponível em: <https://businessmap.io/pt/recursos-kanban/primeiros-passos/o-que-e-kanban>.
+CAROLI, P. **Lean Inception.** [s.l.] Editora Caroli, 2020.
 
+‌
 ### Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|---------------|-----------|
 | 1.0 | 01/10/2023 | Versão inicial do documento | [João Victor Max](https://github.com/joaobisi) | |
+| 1.1 | 01/10/2023 | Incluindo Lean Inception | [João Victor Max](https://github.com/joaobisi) | |
