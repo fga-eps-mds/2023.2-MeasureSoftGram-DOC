@@ -42,3 +42,4 @@ nav:
     - Sprint 01: sprints/sprint01.md
   - Guia de Contribuição: 
     - Política de Commits: guia_contribuicao/politica_commits.md
+    - Política de Branchs: guia_contribuicao/politica_branchs.md
