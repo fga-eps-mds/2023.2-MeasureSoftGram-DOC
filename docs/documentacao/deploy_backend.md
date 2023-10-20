@@ -20,7 +20,9 @@
 
 ## Processo de Deploy
 
+Iniciamos nossa tentativa de deploy através da Amazon Web Services (AWS). Configuramos instâncias no EC2 (Elastic Compute Cloud) para a hospedagem da nossa aplicação e usamos o RDS (Relational Database Service) para gerenciar nosso banco de dados. No entanto, após finalizarmos o deploy na AWS, encontramos um problema: ao tentar acessar a aplicação pelo IP público, a página não carregava.
 
+Diante desse contratempo e da necessidade de um deploy rápido devido ao nosso cronograma apertado, decidimos procurar uma solução alternativa. Foi nesse contexto que escolhemos o Railway como nossa ferramenta de deploy. A transição para o Railway mostrou-se uma decisão acertada. A experiência com ele foi tranquila e conseguimos realizar o deploy sem enfrentar as dificuldades que tivemos com a AWS.
 
-## Referências
+Após a conclusão do deploy no Railway, tentamos novamente realizar o deploy na AWS e identificar o problema existente. Após diversas pesquisas, criamos uma instância na S3 Storage, que é é um serviço de armazenamento de objetos, e com essa instância criada e os devidos códigos executados, o deploy foi efetuado e finalmente conseguimos acessar a interface do back-end. Porém, devido as facilidades do deploy no Railway, decidimos manter o deploy lá, deixando o deploy na AWS como reserva para caso de emergência.
 
