@@ -31,7 +31,7 @@ Nível 3: O nível 3 da EAP é composto pelas atividades de baixo nível do proj
 ![Opportunity Solution Tree](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/assets/49570180/8a1dbfa6-a0fd-4061-b101-7a0200bd5c32)
 
 ### Versão 2:
-![Opportunity Solution Tree (3)](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/assets/49570180/0daa6625-46b5-444a-9eea-38b6299fe641)
+![EAP (1)](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/assets/49570180/018d30ba-96e5-4f59-96ef-84798cd5a981)
 
 
 ## Referências
