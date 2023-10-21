@@ -5,6 +5,7 @@
 |--|--|--|--|
 |0.1| 06/10/2023 | Criação do documento | Ana Carolina Rodrigues |
 |0.2| 06/10/2023 | Levantamento dos riscos | Ana Carolina Rodrigues |
+|0.3| 20/10/2023 | Adição do monitoramento da sprint 1 | Ana Carolina Rodrigues |
 
 ## Introdução
 
@@ -129,6 +130,15 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias <a
 | R12 | Divisão equivalente das tarefas entre os integrantes | Reavaliar a distribuição das tarefas |
 | R13 | Realizar manutenção periódica do equipamento | Providenciar conserto ou comprar novo equipamento |
 | R14 | Elaborar priorização correta das atividades | Rever priorização das atividades |
+
+
+## Monitoramento dos Riscos
+
+O acompanhamento dos riscos é essencial durante o desenvolvimento de um projeto de software, uma vez que os riscos não são estáticos e podem mudar de nível ao longo do projeto.
+
+<iframe width="700" height="760" src="https://docs.google.com/spreadsheets/d/1Z5ZrT2K6mDH-aTm4wRAJsZcDbcQHKyy5KgXrKZQim1Y/edit?usp=sharing"></iframe>
+
+
 
 ## Referências
 
