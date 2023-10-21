@@ -6,6 +6,7 @@
 |0.1| 13/10/2023 | Criação do documento | Ana Carolina Rodrigues |
 |0.2| 13/10/2023 | Adição da imagem do eap | Ana Carolina Rodrigues |
 |0.3| 16/10/2023 | Segunda versão do eap conforme correção | Ana Carolina Rodrigues |
+|0.4| 20/10/2023 | Adição da release 1 | Ana Carolina Rodrigues |
 
 
 ## Introdução
