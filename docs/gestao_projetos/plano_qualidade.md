@@ -58,3 +58,10 @@ Através do uso de métricas, é possível identificar as subcaracterísticas re
 | Bugs              | Classificado como "A"            |
 | Security Hotspots | Classificado como "A"            |
 | Duplication       | Até 3.0% de duplicação de código |
+
+## Referências
+- Qualidade de Software. Disponível em: https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209. Acesso em 20 out. 2023
+
+- ISO/IEC 25010. ISO 25000. Software and data quality. 2011. Disponível em: https://iso25000.com/index.php/en/iso-25000-standards/iso-25010. Acesso em 20 out. 2023
+
+- ENGSOFTMODERNA. Engenharia de Software Moderna. Disponível em: https://engsoftmoderna.info/. Acesso em: 20 out. 2023.
