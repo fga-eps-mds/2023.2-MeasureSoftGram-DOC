@@ -18,7 +18,8 @@ nav:
     - Heatmap de Horários: tabelas/heatmap_horarios.md
     - Metodologias: planejamento/metodologias.md
     - Plano de Custos: planejamento/plano_custos.md
-    - Plano de risco: gestao_projetos/plano_risco.md
+    - Plano de Risco: gestao_projetos/plano_risco.md
+    - Plano de Comunicação: gestao_projetos/plano_comunicacao.md
     - Arquitetura: documentacao/arquitetura.md
     - Estrutura Analítica do Projeto: gestao_projetos/eap.md
     - Diagrama Entidade-relacionamento: diagramas/diagrama_entidade_relacionamento.md
