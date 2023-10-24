@@ -58,7 +58,7 @@ Com base nessas especificações, foi feita uma pesquisa de preços de computado
 | Notebook lenovo | R$ 3.059,99 |  15 | R$ 45.889,85 |
 
 ## Planilha do cáculo dos custos
-<iframe width="700" height="760" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkyOB7Kn8Iro6fUK0NDjK7pTk0TIM4nqFHOFVNitJMfTsg10BrB9EsXGEwIl_3J1kYcxupWAyD28N3/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="800" height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkyOB7Kn8Iro6fUK0NDjK7pTk0TIM4nqFHOFVNitJMfTsg10BrB9EsXGEwIl_3J1kYcxupWAyD28N3/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 ## Referências
