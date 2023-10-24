@@ -64,7 +64,6 @@ Com base nessas especificações, foi feita uma pesquisa de preços de computado
 ## Referências
 > Raio-x do custo por aluno nas universidades federais.**. [1] . Disponível em: <https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html>.
 
-‌>  Apuração do Custo do Ensino e do Custo Aluno, segundo a Metodologia de Apuração
-desenvolvida pela UnB**.[2] Disponível em: <https://dpo.unb.br/images/phocadownload/documentosdegestao/relatoriogestao/2015/Apurao_do_Custo_do_Ensino_e_do_Custo_Aluno.pdf>.
+> Apuração do Custo do Ensino e do Custo Aluno, segundo a Metodologia de Apuração desenvolvida pela UnB**.[2] Disponível em: <https://dpo.unb.br/images/phocadownload/documentosdegestao/relatoriogestao/2015/Apurao_do_Custo_do_Ensino_e_do_Custo_Aluno.pdf>.
 
-‌> Notebook lenovo**.[3] Disponível em: <https://www.lenovo.com/br/pt/laptops/ideapad/serie-100/IdeaPad-1i-Gen-7-14-inch-Intel/p/LEN101I0030?cid=br:sem|se|google|j-b2c-gaming-convers-google-search-intelccf|search|gaming&gclid=Cj0KCQjwsp6pBhCfARIsAD3GZuaCZ9znZ5kATBbl4CpaO90gW6UNW6V8K63vjMOQfOv3XLKEqMd0sOYaAi9JEALw_wcB>.
+> Notebook lenovo**.[3] Disponível em: <https://www.lenovo.com/br/pt/laptops/ideapad/serie-100/IdeaPad-1i-Gen-7-14-inch-Intel/p/LEN101I0030?cid=br:sem|se|google|j-b2c-gaming-convers-google-search-intelccf|search|gaming&gclid=Cj0KCQjwsp6pBhCfARIsAD3GZuaCZ9znZ5kATBbl4CpaO90gW6UNW6V8K63vjMOQfOv3XLKEqMd0sOYaAi9JEALw_wcB>.
