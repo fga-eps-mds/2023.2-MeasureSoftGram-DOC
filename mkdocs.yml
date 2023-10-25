@@ -24,6 +24,8 @@ nav:
     - Arquitetura: documentacao/arquitetura.md
     - Estrutura Analítica do Projeto: gestao_projetos/eap.md
     - Diagrama Entidade-relacionamento: diagramas/diagrama_entidade_relacionamento.md
+  - Visão do Produto: 
+    - Lean Inception: lean_inception.md
   - Reuniões:
     - Reunião 06/09: atas/reuniao1.md
     - Reunião 12/09: atas/reuniao2.md
