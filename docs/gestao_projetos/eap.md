@@ -31,6 +31,8 @@ Nível 3: O nível 3 da EAP é composto pelas atividades de baixo nível do proj
 
 ![EAP](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/assets/49570180/9aaad2f4-94ea-4b13-88d7-2a3c9a90f738)
 
+<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVNaobZpc=/?pres=1&frameId=3458764566758073321&embedId=400097390740" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
 
 ## Referências
 
