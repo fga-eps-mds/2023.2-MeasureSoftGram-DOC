@@ -3,10 +3,11 @@
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-|0.1| 13/10/2023 | Criação do documento | Ana Carolina Rodrigues |
-|0.2| 13/10/2023 | Adição da imagem do eap | Ana Carolina Rodrigues |
-|0.3| 16/10/2023 | Segunda versão do eap conforme correção | Ana Carolina Rodrigues |
-|0.4| 20/10/2023 | Adição da release 1 | Ana Carolina Rodrigues |
+| 0.1 | 13/10/2023 | Criação do documento | Ana Carolina Rodrigues |
+| 0.2 | 13/10/2023 | Adição da imagem do eap | Ana Carolina Rodrigues |
+| 0.3 | 16/10/2023 | Segunda versão do eap conforme correção | Ana Carolina Rodrigues |
+| 0.4 | 20/10/2023 | Adição da release 1 | Ana Carolina Rodrigues |
+| 0.5 | 26/10/2023 | Ajuste do EAP conforme o RoadMap | Ana Carolina Rodrigues |
 
 
 ## Introdução
@@ -28,11 +29,7 @@ Nível 3: O nível 3 da EAP é composto pelas atividades de baixo nível do proj
 
 ## Resultado
 
-### Versão 1:
-![Opportunity Solution Tree](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/assets/49570180/8a1dbfa6-a0fd-4061-b101-7a0200bd5c32)
-
-### Versão 2:
-![EAP (1)](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/assets/49570180/018d30ba-96e5-4f59-96ef-84798cd5a981)
+![EAP](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/assets/49570180/9aaad2f4-94ea-4b13-88d7-2a3c9a90f738)
 
 
 ## Referências
