@@ -6,6 +6,7 @@
 |--|--|--|--|
 |1.0| 04/10/2023 | Criação do documento | Pedro Haick |
 |2.0| 30/10/2023 | Correção do diagrama | Pedro Haick |
+|2.1| 30/10/2023 | Remoção da Helper Action | Pedro Haick |
 
 ## Introdução
 
@@ -55,8 +56,6 @@
 **Parser** Este repositório possui a capacidade de interpretar a estrutura gramatical ou sintática dos dados de entrada, a fim de transformá-los em uma representação interna mais adequada para processamento pelos demais serviços.
 
 **Github Action** Action customizada do Github que permite realizar a análise de um certo repositorio. Esta aplicação é responsável por se comunicar com o serviço `Service` e fornecer todos os dados necessários para a aplicação web.
-
-**Helper Action** Action que permite executar de forma automática a coleta de métricas de acordo com os padrões estabelecidos pela disciplina e gerar novas releases a partir do uso de tags nos pull requests.
 
 ## Diagrama Arquitetural
 
