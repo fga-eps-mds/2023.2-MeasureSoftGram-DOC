@@ -5,6 +5,7 @@
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 |1.0| 04/10/2023 | Criação do documento | Pedro Haick |
+|2.0| 30/10/2023 | Correção do diagrama | Pedro Haick |
 
 ## Introdução
 
@@ -81,12 +82,9 @@
 ![Diagrama de pacotes - Parser](../assets/images/diagrama_pacotes_parser.png)
 
 
-### Github Action
-![Diagrama de pacotes - GitHub Action](../assets/images/diagrama_pacotes_action.png)
+### Action
+![Diagrama de pacotes - Action](../assets/images/diagrama_pacotes_action.png)
 
-
-### Helper Action
-![Diagrama de pacotes - Helper Action](../assets/images/diagrama_pacotes_helper_action.png)
 
 ## Metas e Restrições de Arquitetura
 
