@@ -61,9 +61,6 @@ Com base nessas especificações, foi feita uma pesquisa de preços de computado
 ## Planilha do cáculo dos custos
 <iframe width="800" height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkyOB7Kn8Iro6fUK0NDjK7pTk0TIM4nqFHOFVNitJMfTsg10BrB9EsXGEwIl_3J1kYcxupWAyD28N3/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-<iframe width="800" height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkyOB7Kn8Iro6fUK0NDjK7pTk0TIM4nqFHOFVNitJMfTsg10BrB9EsXGEwIl_3J1kYcxupWAyD28N3/pubhtml?widget=true&amp;headers=false"></iframe>
-
-
 ## Referências
 > Raio-x do custo por aluno nas universidades federais.**. [1] . Disponível em: <https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html>.
 
