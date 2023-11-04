@@ -131,17 +131,17 @@ Exemplo de configuração de qualidade gerado pelo <b>init</b>:
 <p align="justify" style="text-indent: 20px">
     Para modificar os thresholds basta adicionar a chave thresholds no json de configuração demonstrado acima e passando como valor o nome dos thresholds que deseja modificar e seus respectivos valores como mostrado abaixo.
 </p>
-``` json
 
+``` json
 {
 "key": "duplication_absense",
 "weight": 34,
 "min_threshold": 0,
 "max_threshold": 5,
 }
+```
 
-````
-
+```` json
 **OBS:**
 
 1. Caso o valor não for passado o msgram irá utilizar os valores padrões.
@@ -151,6 +151,7 @@ Exemplo de configuração de qualidade gerado pelo <b>init</b>:
 3. Os valores mínimos e máximos também são utilizados para interpolação, portanto alguns são limitados entre 0 e 100 e outros são fixos.
 
 3. Segue os valores padrões de cada threshold:
+````
 
 ```json
    {
@@ -167,8 +168,7 @@ Exemplo de configuração de qualidade gerado pelo <b>init</b>:
         "min_coverage": 60, #consider files with coverage above min for the measure
         "max_coverage": 100
     }
-````
-
+```
 
 #### 2.3.2 msgram extract
 
