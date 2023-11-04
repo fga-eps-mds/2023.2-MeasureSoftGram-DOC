@@ -6,6 +6,7 @@
 |--------|------|-----------|---------------|
 | 0.1 | 12/10/2023 | Versão inicial do documento | [Ariel Vieira Lima Serafim](https://github.com/ArielSixwings) |
 | 0.2 | 24/10/2023 | Adição da planilha e ajustes dos cálculos | Ana Carolina Rodrigues |
+| 0.3 | 04/11/2023 | Adição do custo de desenvolvimento | Ana Carolina Rodrigues |
 
 ## Objetivo do documento
 
@@ -19,7 +20,7 @@ Utilizamos então uma calculadora de ajuste de inflação do Banco Central do Br
 
 Desta forma, dividindo o custo anual por 12 para encontrar o custo mensal de um ano da UnB, temos que o custo mensal é de R$ 5.813,16. E considerando que em média um aluno de graduação da Universidade de Brasília cursa 7 disciplinas por ano, o custo de um aluno por disciplina é de R$ 871,06. Uma vez que a discplina de EPS possui 60 horas de aula, o custo de um aluno por hora é de R$ 13,84, o que é compatível com o valor calculado pela apuração feita em [2].
 
-Considerando uma média de 2 horas por dia gastas por aluno fora de aula com o valor de 2 horas por aula, o cálculo do valor por cada aluno semanalmente é de R$ 138,40. Relacionando o tempo mensal a contar pela quantidade de horas/aula que é 60 horas de aula por um período de 4 meses, temos 60 horas/mês * 4 meses = 240 horas, totalizando R$ 2.076,00 para 15 alunos envolvidos no custo de desenvolvimento desse projeto.
+Considerando uma média de 2 horas por dia gastas por aluno fora de aula com o valor de 2 horas por aula, o cálculo do valor por cada aluno semanalmente é de R$ 138,40. Relacionando o tempo mensal a contar pela quantidade de horas/aula que é 60 horas de aula por um período de 4 meses, temos 60 horas/mês * 4 meses = 240 horas, totalizando R$ 2.076,00 para 16 alunos envolvidos no custo de desenvolvimento desse projeto.
 
 ## Custo de internet
 
@@ -49,13 +50,13 @@ Para esse projeto precisamos de computadores pessoais, felizmente temos opções
 - Deve possuir 8 GB de memória RAM ou superior;
 - Deve possui SSD de 256 GB ou superior;
     
-Com base nessas especificações, foi feita uma pesquisa de preços de computadores com essas especificações e foi definido que o computador que melhor atende a essas especificações é o: Notebook Lenovo IdeaPad 1i 14" Intel i5 - 8GB 256GB SSD Placa de Vídeo Intel Iris Xe Windows 11 15.6" - 83AF0008BR por R$ 3.059,99. Deste modo, o custo total de aquisição é o custo de 15 computadores, que é de R$ 45.858,85.
+Com base nessas especificações, foi feita uma pesquisa de preços de computadores com essas especificações e foi definido que o computador que melhor atende a essas especificações é o: Notebook Lenovo IdeaPad 1i 14" Intel i5 - 8GB 256GB SSD Placa de Vídeo Intel Iris Xe Windows 11 15.6" - 83AF0008BR por R$ 3.059,99. Deste modo, o custo total de aquisição é o custo de 16 computadores, que é de R$ 45.858,85.
 
 ### Aquisição
 
 | **Item** | **Preço unitário** | **Quantidade** | **Total** |
 |----------------------|----------------------|-------------|-------------|
-| Notebook lenovo | R$ 3.059,99 |  15 | R$ 45.889,85 |
+| Notebook lenovo | R$ 3.059,99 |  16 | R$ 45.889,85 |
 
 ## Planilha do cáculo dos custos
 <iframe width="800" height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkyOB7Kn8Iro6fUK0NDjK7pTk0TIM4nqFHOFVNitJMfTsg10BrB9EsXGEwIl_3J1kYcxupWAyD28N3/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
