@@ -169,23 +169,8 @@ Exemplo de configuração de qualidade gerado pelo <b>init</b>:
     }
 ````
 
-#### 2.3.2 msgram list
 
-<p align="justify" style="text-indent: 20px">
-    Responsável por listar as configurações que estão sendo utilizadas ou que foram utilizadas pelo usuário. O comando deve ser usado com algum arquivo de configuração que o usuário já possua na máquina ou use um default <b>msgram.json</b>.
-</p>
-
-```sh
-msgram list -h
-```
-
-<center>
-
-![msgram_extract](../assets/images/msgram_list.jpg)
-
-</center>
-
-#### 2.3.3 msgram extract
+#### 2.3.2 msgram extract
 
 <p align="justify" style="text-indent: 20px">
     Responsável por extrair os dados advindos dos analisadores de código (parsers). Até a versão 1.0.0, o MeasureSoftGram suporta as seguintes entidades:
@@ -232,7 +217,7 @@ msgram extract -h
 
 </center>
 
-#### 2.3.4 msgram calculate
+#### 2.3.3 msgram calculate
 
 <p align="justify" style="text-indent: 20px">
     Responsável por calcular, através do <a href="https://pypi.org/project/msgram-core/">msgram-core</a> (versão empacotada dos cálculos), a qualidade dos arquivos extraídos. Também, por esse comando o MeasureSoftGram extrai os dados (CSV ou JSON) calculados.
@@ -245,5 +230,21 @@ msgram calculate -h
 <center>
 
 ![msgram_calculate](../assets/images/msgram_calculate.png)
+
+</center>
+
+#### 2.3.4 msgram list
+
+<p align="justify" style="text-indent: 20px">
+    Responsável por listar as configurações que estão sendo utilizadas ou que foram utilizadas pelo usuário. O comando deve ser usado com algum arquivo de configuração que o usuário já possua na máquina ou use um default <b>msgram.json</b>.
+</p>
+
+```sh
+msgram list -h
+```
+
+<center>
+
+![msgram_extract](../assets/images/msgram_list.jpg)
 
 </center>
