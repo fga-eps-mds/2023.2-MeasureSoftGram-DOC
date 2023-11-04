@@ -5,8 +5,8 @@
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-|0.1| 04/11/2023 | Criação do documento | Ana Carolina Rodrigues |
-|0.2| 04/11/2023 | Adição das informações do novo comando | Ana Carolina Rodrigues |
+|0.1| 04/11/2023 | Criação do documento | Ana Carolina Rodrigues e Ariel Serafim |
+|0.2| 04/11/2023 | Adição das informações do novo comando | Ana Carolina Rodrigues e Ariel Serafim |
 
 ### 2.1 O que é o microserviço `CLI`?
 
@@ -168,6 +168,9 @@ Exemplo de configuração de qualidade gerado pelo <b>init</b>:
         "max_coverage": 100
     }
 ````
+
+
+
 #### 2.3.2 msgram list
 
 <p align="justify" style="text-indent: 20px">
@@ -201,23 +204,25 @@ msgram list -h
     - modifiability
 
 - Info: "Medidas disponíveis" 
-  - passed_tests 
-  - tests_build 
-  - test_coverage 
-  - non_complex_file_density 
-  - commented_file_density 
-  - duplication_absense
+
+    - passed_tests 
+    - tests_build 
+    - test_coverage 
+    - non_complex_file_density 
+    - commented_file_density 
+    - duplication_absense
 
 - Info: "Métricas disponíveis" 
-  - tests [sonarqube] 
-  - tests_failures [sonarqube] 
-  - test_errors [sonarqube] 
-  - test_execution_time [sonarqube] 
-  - coverage [sonarqube] 
-  - functions [sonarqube] 
-  - complexity [sonarqube] 
-  - comment_lines_density [sonarqube] 
-  - duplicated_lines_density [sonarqube]
+
+    - tests [sonarqube] 
+    - tests_failures [sonarqube] 
+    - test_errors [sonarqube] 
+    - test_execution_time [sonarqube] 
+    - coverage [sonarqube] 
+    - functions [sonarqube] 
+    - complexity [sonarqube] 
+    - comment_lines_density [sonarqube] 
+    - duplicated_lines_density [sonarqube]
 
 ```sh
 msgram extract -h
