@@ -169,8 +169,6 @@ Exemplo de configuração de qualidade gerado pelo <b>init</b>:
     }
 ````
 
-
-
 #### 2.3.2 msgram list
 
 <p align="justify" style="text-indent: 20px">
