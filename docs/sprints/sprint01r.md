@@ -2,15 +2,15 @@
 
 ## Indicadores de Qualidade
 
-Pontos Concluídos: 23
+Pontos Concluídos: 0
 
 |Tarefas|Status|Pontuação Total|
 |:---:|:---:|:---:|
 |US05|Dívida|13|
-|US12|Concluída| 13 |
+|Fix #43|Dívida| 13 |
 |US21 e US22|Dívida| 6 |
-|US24|Concluída| 8 |
-|US28|Concluída| 5 |
+|US24|Dívida| 8 |
+|US28|Dívida| 5 |
 |US32|Dívida| 8 |
 
 ## Retrospectiva
