@@ -56,6 +56,9 @@ nav:
       - Resultado: sprints/sprint03r.md
     - Sprint 04:
       - Planejamento: sprints/sprint04p.md
+      - Resultado: sprints/sprint04r.md
+    - Sprint 05:
+      - Planejamento: sprints/sprint05p.md
   - Guia de Contribuição: 
     - Política de Commits: guia_contribuicao/politica_commits.md
     - Política de Branchs: guia_contribuicao/politica_branchs.md
