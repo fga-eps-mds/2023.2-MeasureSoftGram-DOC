@@ -21,7 +21,7 @@ Com a finalização da sprint 3, concluímos que estamos no caminho certo em rel
 
 |Feature|Histórias de Usuário|Pontuação Total|Pareamento|
 |:---:|:---:|:---:|:---:|
-|F03 - Cadastro de Usuário|[US09](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/issues/40)|13|[Vitor](https://github.com/vitorekr), [Levi](https://github.com/levilunique) e [Renata](https://github.com/Renatinha28)|
+|F03 - Cadastro de Repositório|[US09](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/issues/40)|13|[Vitor](https://github.com/vitorekr), [Levi](https://github.com/levilunique) e [Renata](https://github.com/Renatinha28)|
 |F04 - Relacionar Métricas e Medidas| [Fix #45](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/issues/45)| 13 | [João](https://github.com/joaobisi), [Murilo](https://github.com/muriloschiler) e [Pedro](https://github.com/peHaick)|
 |F07 - Incrementar Classe Goals| [US34](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/issues/96)| 13 | [Lameque](https://github.com/LamequeFernandes) e [Vinícius](https://github.com/viniciusvieira00)|
 |F08 - Gráfico Gauge | [US23](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/issues/54)| 8 | [Ian](https://github.com/IanPSRocha) e [Lucas Gomes](https://github.com/LucasGlopes)|
