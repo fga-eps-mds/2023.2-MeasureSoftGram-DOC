@@ -8,6 +8,7 @@
 | 0.3 | 16/10/2023 | Segunda versão do eap conforme correção | Ana Carolina Rodrigues |
 | 0.4 | 20/10/2023 | Adição da release 1 | Ana Carolina Rodrigues |
 | 0.5 | 26/10/2023 | Ajuste do EAP conforme o RoadMap | Ana Carolina Rodrigues |
+| 0.6 | 25/11/2023 | Ajuste do EAP o novo RoadMap | Ana Carolina Rodrigues |
 
 
 ## Introdução
@@ -29,9 +30,9 @@ Nível 3: O nível 3 da EAP é composto pelas atividades de baixo nível do proj
 
 ## Resultado
 
-![EAP](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/assets/49570180/9aaad2f4-94ea-4b13-88d7-2a3c9a90f738)
+![EAP](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/assets/49570180/2b15aec6-5dd0-4d76-818a-5a73f997df50)
 
-<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVNaobZpc=/?pres=1&frameId=3458764566758073321&embedId=400097390740" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVNaobZpc=/?pres=1&frameId=3458764571066017593&embedId=995856944826" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 
 ## Referências
