@@ -20,19 +20,28 @@ Durante o desenvolvimento do projeto MeasureSoftGram neste semestre, a equipe re
 ## Lean Inception
  - A Lean Inception é uma abordagem que visa alinhar a equipe em relação aos objetivos e requisitos do projeto desde o início.
  - No decorrer desse projeto, a Lean Inception será aplicada para garantir a clareza dos objetivos e das diretrizes do projeto, proporcionando um sólido ponto de partida quanto à visão do produto.
- - Será utilizada a plataforma Mural para a aplicação das diretrizes da Lean Inception. 
+ - Será utilizada a plataforma Mural para a aplicação das diretrizes da Lean Inception.
+
+## PMBOK (Project Management Body of Knowledge)
+
+- Processos de gerenciamento: Divididos em cinco grupos - iniciação, planejamento, execução, monitoramento e controle, e encerramento - guiam o ciclo de vida do projeto.
+- Áreas de conhecimento: São dez áreas que abrangem aspectos específicos do gerenciamento de projetos, como escopo, cronograma, custo, qualidade, recursos, comunicação, riscos, aquisições e partes interessadas.
+- Conceitos fundamentais: Incluem a Estrutura Analítica do Projeto (EAP), ciclo de vida do projeto e gerenciamento de partes interessadas para uma abordagem abrangente do gerenciamento.
+- Boas práticas: Destacam a importância de aplicar métodos comprovados, ferramentas de gestão, comunicação eficaz e gerenciamento proativo de riscos para obter resultados bem-sucedidos em projetos.
+- No nosso projeto será utilizada as etapas que abrange o conhecimento, as boas práticas e a Estrutura do Analítica do Projeto (EAP).
 
 
 ### Referências
-SUTHERLAND, J. **Scrum: a arte de fazer o dobro do trabalho na metade do tempo**. [s.l.] Leya, 2016.
-**eXtreme Programming: Conceitos e Práticas sobre eXtreme Programming**. Disponível em: <https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498>.
-‌**Kanban: O que é e Como Funciona**. Disponível em: <https://businessmap.io/pt/recursos-kanban/primeiros-passos/o-que-e-kanban>.
+> SUTHERLAND, J. **Scrum: a arte de fazer o dobro do trabalho na metade do tempo**. [s.l.] Leya, 2016.
+> **eXtreme Programming: Conceitos e Práticas sobre eXtreme Programming**. Disponível em: <https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498>.
+> **Kanban: O que é e Como Funciona**. Disponível em: <https://businessmap.io/pt/recursos-kanban/primeiros-passos/o-que-e-kanban>.
 CAROLI, P. **Lean Inception.** [s.l.] Editora Caroli, 2020.
 
 ‌
 ### Histórico de Versão
 
-| Versão | Data | Descrição | Autor | Revisor |
-|--------|------|-----------|---------------|-----------|
-| 1.0 | 01/10/2023 | Versão inicial do documento | [João Victor Max](https://github.com/joaobisi) | |
-| 1.1 | 01/10/2023 | Incluindo Lean Inception | [João Victor Max](https://github.com/joaobisi) | |
+| Versão | Data | Descrição | Autor |
+|--------|------|-----------|---------------|
+| 1.0 | 01/10/2023 | Versão inicial do documento | [João Victor Max](https://github.com/joaobisi) |
+| 1.1 | 01/10/2023 | Incluindo Lean Inception | [João Victor Max](https://github.com/joaobisi) |
+| 1.2 | 25/11/2023 | Inclusão do PMBOK | Ana Carolina |
