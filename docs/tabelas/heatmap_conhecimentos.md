@@ -5,6 +5,7 @@
 |Data|Autor|Descrição|Versão|
 |:--:|:--:|:---:|:---:|
 |20/09/2023|[IanPSRocha](https://github.com/IanPSRocha)|Adicionando primeira versão|0.1|
+| 09/10/2023 | Ana Carolina | Adição do link de melhor vizualização | 0.2 |
 
 ## Introdução
 
@@ -12,4 +13,4 @@ O propósito deste documento é registrar como estão os conhecimentos dos aluno
 
 ## Tabela
 
-<iframe width="1080" height="600" src="https://docs.google.com/spreadsheets/d/1sYRWYChjYN8yWRGhI8Nn9s4V4RHPui1MeWggZX0ddrY/edit?pli=1#gid=1126803405"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSTsuOJbpwp7cUAA29QF4AQZnnYG2bJKvqzfYMYOPvxqItustnW9uurw3JhQPUtcMusr8fPJ8AaQBzj/pubhtml?widget=true&amp;headers=false"></iframe>
