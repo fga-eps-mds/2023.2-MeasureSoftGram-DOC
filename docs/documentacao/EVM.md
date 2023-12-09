@@ -31,3 +31,7 @@ Com base nesses índices, é possível fazer projeções e estimativas:
 - VAC (Variance at Completion - Variação no Término): É a diferença entre o orçamento estimado (BAC) e a estimativa atual de custo (EAC). Indica se o projeto provavelmente ficará abaixo ou acima do orçamento.
 
 Essas métricas ajudam os gerentes de projeto a entender o desempenho atual, prever resultados futuros e tomar medidas corretivas para manter o projeto dentro do orçamento e do cronograma planejado.
+
+## Resultados
+
+<iframe width="1800" height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTmTmLV-xYifYAvtne5JlRI1K-bu_Cl_KnIP5qxxYE3mGI43eWjGbNop7J7C53JaczZyzDuY6uY-Eea/pubhtml?widget=true&amp;headers=false"></iframe>
