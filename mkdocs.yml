@@ -23,7 +23,6 @@ nav:
     - Plano de Qualidade: gestao_projetos/plano_qualidade.md
     - Arquitetura: documentacao/arquitetura.md
     - Estrutura Analítica do Projeto: gestao_projetos/eap.md
-    - Diagrama Entidade-relacionamento: diagramas/diagrama_entidade_relacionamento.md
     - EVM: documentacao/EVM.md
   - Manual de uso:
     - Manual de uso da CLI: manual_uso_cli/cli.md
