@@ -1,22 +1,20 @@
-# Planejamento Sprint 6
+# Planejamento Sprint 7
 
 ## Informações Básicas
 
 |||
 |:--:|:--:|
 |Local|Discord da Disciplina|
-|Data|21/11/2023|
+|Data|28/11/2023|
 |Horário|20h|
 |||
-|Início da Sprint|21/11/2023|
-|Fim da Sprint|28/11/2023|
+|Início da Sprint|28/11/2023|
+|Fim da Sprint|05/12/2023|
 |Duração|7 dias|
 
 ## Objetivos
 
-Tivemos vários problemas em relação ao Deploy nas últimas semanas e isso dificultou bastante a transparência para o usuário/professor de que há um trabalho sendo feito. Entretanto, conseguimos arrumar isso durante a sprint 5 e esperamos manter essa estabilidade até o final do semestre.
-
-Devido a conversas em sala com o professor, o grupo discutiu e entendeu que uma parte da prioridade deveria ser focar em aumentar a cobertura de testes em todos os repositórios trabalhados, por isso, alocamos 2 EPS que finalizaram seus deveres na sprint 5 para poderem focar 100% nesse problema.
+Para a sprint 7, foi decidido dar o último gás necessário para que o projeto fosse entregue com exito. Todos os pareamentos foram instruidos em aumentar a cobertura de testes no que estavam mexendo para uma melhor escalabilidade do projeto pós finalização do semestre.
 
 ## Histórias e Pareamentos
 
@@ -27,5 +25,5 @@ Devido a conversas em sala com o professor, o grupo discutiu e entendeu que uma 
 |F07 - Incrementar Classe Goals| [US26](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/issues/57)| 13 | [Lameque](https://github.com/LamequeFernandes) e [Vinícius](https://github.com/viniciusvieira00)|
 |F12 - Criar Badges na Action | [US30](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/issues/106) | 8 | [Ian](https://github.com/IanPSRocha) e [Lucas Gomes](https://github.com/LucasGlopes)|
 |F05 - Medir Throughput| [US17](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/issues/48)| 8 | [Ana](https://github.com/AnaCarolinaRodriguesLeite) e [Ariel](https://github.com/ArielSixwings)|
-|F01 - Cadastrar Produto| [US01](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/issues/32)| 8 |[Luana](https://github.com/LuaMedeiros) e [Lucas Freire](https://github.com/AguionStryke)|
+|FIX - Animação de Carregamento| [Fix](https://github.com/fga-eps-mds/2023.2-MeasureSoftGram-DOC/issues/60)| 8 |[Luana](https://github.com/LuaMedeiros) e [Lucas Freire](https://github.com/AguionStryke)|
 |Cobertura de Testes do Front|-|8|[Caio](https://github.com/oCaioOliveira) e [Vitor](https://github.com/vitorekr)|
