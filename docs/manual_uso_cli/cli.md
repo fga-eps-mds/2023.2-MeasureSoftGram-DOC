@@ -120,7 +120,26 @@ Exemplo de configuração de qualidade gerado pelo <b>init</b>:
                     ],
                 }
             ],
+        },
+        {
+            "characteristics": [
+                {
+                    "key": "functional_suitability",
+                    "weight": 33,
+                    "subcharacteristics": [
+                        {
+                            "key": "functional_completeness",
+                            "weight": 100,
+                            "measures": [
+                                {"key": "team_throughput", "weight": 100, "min_threshold": 45, "max_threshold": 100}
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
+    ]
+}
 ```
 
 ##### 2.3.1.1 thresholds
